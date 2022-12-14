@@ -1,8 +1,6 @@
 <div align="center">
 <h1>Hi There, I'm Cícero Teixeira    <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"></h1>
 
-I'm a **Trainee** at [BRX Retail](https://www.brxretail.com/).
-
   <a href="https://github.com/TeixeiraCicero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeixeiraCicero&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeixeiraCicero&layout=compact&langs_count=7&theme=algolia"/>
